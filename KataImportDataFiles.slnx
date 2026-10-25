@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ImportCli/Import.Cli.csproj" />
+    <Project Path="src/ImportDomain/Import.Domain.csproj" />
+    <Project Path="src/ImportEngine/Import.Engine.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ImportEngine.Tests/ImportEngine.Tests.csproj" />
+  </Folder>
+</Solution>
